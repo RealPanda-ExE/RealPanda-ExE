@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, Me Panda RealPanda-ExE</h1>
+<h3 align="center">“Every great application starts with a single line of code. Keep building, keep learning, and let your creativity turn ideas into reality.” 🚀</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/<@1338047834787680326>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="<@1338047834787680326>" height="30" width="40" /></a>
